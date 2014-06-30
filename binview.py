@@ -45,7 +45,7 @@ inputFiles = [
     #"System32/ssBranded.scr",
     #"System32/Aurora.scr",
     #"System32/spwizimg.dll"
-    "KutnoAmsterda.pdf",
+    "binview.py",
 ]
 
 # Base path to input files
